@@ -17,7 +17,7 @@
 ### Pra conteúdo sobre programação segue a gente nas redes abaixo!
  
 <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/wellingtondisck" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/wellingtondesouzamoraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wsmmaster#2923" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wellington-smoraes@outlook.com"><img src="https://img.shields.io/badge/-outlook-0078D4?style=plastic&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
