@@ -23,3 +23,6 @@
   <a href = "mailto:wellington-smoraes@outlook.com"><img src="https://img.shields.io/badge/-outlook-0078D4?style=plastic&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wellingtonmoraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
